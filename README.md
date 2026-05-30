@@ -16,3 +16,6 @@ CSS3
 JavaScript (ES6)
 LocalStorage API
 DOM Manipulation
+## 📸 Preview
+
+![To Do List Screenshot](images/screenshot.png)
